@@ -1,1 +1,1 @@
-# pf_snake_river
+# ParFlow CONUS Subset for Snake River
